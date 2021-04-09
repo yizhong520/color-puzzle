@@ -1,5 +1,3 @@
-# Project 2
+When creating their own art pieces, many designers and artists would borrow ideas from the masterpieces' palettes. By analyzing the color choices' expressive and conceptual intention, artists gain inspiration and may put them into their own work. 
 
-This repository contains code for an interactive web app, created for the _Client-Side Web Development_ course at the UW iSchool.
-
-The site can be viewed at <https://firebase-project-id.firebaseapp.com//>
+This project aims to display and categorize a gallery of famous paintings by their dominating colors. With our web app, artists could choose the paintings to observe and learn more selectively; they may pick based on their interests in the palettes they like. Other than that, showing the dominating colors could help artists to identify the key tone of the paintings more intuitively. At the same time, our web app also encourages ordinary people to appreciate art better.
