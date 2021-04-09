@@ -1,0 +1,38 @@
+[
+    { "horz": "LucheonH",
+      "horzAlt": "Lucheon Palette Horizontal",
+      "full": "LucheonP",
+      "fullAlt": "Lucheon Palette"
+    },
+  
+    { "horz": "LangloisH",
+      "horzAlt": "Langlois Palette Horizontal",
+      "full": "LangloisP",
+      "fullAlt": "Langlois Palette"
+    },
+  
+    { "horz": "HAH",
+      "horzAlt": "HenryAsencio Palette Horizontal",
+      "full": "HAP",
+      "fullAlt": "HenryAsencio Palette"
+    },
+  
+    { "horz": "TasteH",
+      "horzAlt": "Taste Palette Horizontal",
+      "full": "TasteP",
+      "fullAlt": "Taste Palette"
+    },
+  
+    { "horz": "ElegantH",
+      "horzAlt": "Elegant Palette Horizontal",
+      "full": "ElegantP",
+      "fullAlt": "Elegant Palette"
+    },
+  
+    { "horz": "HorrorH",
+      "horzAlt": "Horror Palette Horizontal",
+      "full": "HorrorP",
+      "fullAlt": "Horror Palette"
+    }
+  ]
+  
